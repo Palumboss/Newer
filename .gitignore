@@ -1,0 +1,12 @@
+# ignore file types
+**.csv
+**.tar
+**.zip
+**.png
+**.pdf
+
+# ignore folders
+**.ipynb_checkpoints/
+**.__pycache__/
+
+# ignore files
